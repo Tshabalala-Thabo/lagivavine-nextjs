@@ -1,9 +1,8 @@
-````markdown
-# 🍷 Lagive Vine – Premium Wine Website
+# 🍷 Lagiva Vine – Premium Wine Website
 
-Lagive Vine is a minimal, luxurious, and fully responsive wine showcase website crafted to provide an exclusive digital experience for wine lovers. Built with a modern stack and clean design principles, it highlights elegant wines with refined typography, immersive visuals, and seamless interactions.
+Lagiva Vine is a minimal, luxurious, and fully responsive wine showcase website crafted to provide an exclusive digital experience for wine lovers. Built with a modern stack and clean design principles, it highlights elegant wines with refined typography, immersive visuals, and seamless interactions.
 
-![Lagive Vine Screenshot](./public/screenshot.png)
+![Lagiva Vine Screenshot](./public/screenshot.png)
 
 ## ✨ Features
 
@@ -54,7 +53,7 @@ const wines = [
 
    ```bash
    git clone https://github.com/Tshabalala-Thabo/lagivavine-nextjs.git
-   cd lagive-vine
+   cd lagiva-vine
    ```
 
 2. Open the project with your favorite code editor or host it on Vercel/Netlify.

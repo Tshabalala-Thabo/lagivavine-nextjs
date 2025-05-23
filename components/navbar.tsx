@@ -91,7 +91,7 @@ export default function Navbar() {
           <div className="hidden md:block">
             <Button
               className="bg-[#B50101] hover:bg-[#8F0101] text-white"
-              onClick={() => window.open("https://wa.me/1234567890", "_blank")}
+              onClick={() => window.open("https://wa.me/27814498919", "_blank")}
             >
               <Phone className="mr-2 h-4 w-4" /> WhatsApp
             </Button>
@@ -131,7 +131,7 @@ export default function Navbar() {
               ))}
               <Button
                 className="bg-[#B50101] hover:bg-[#8F0101] text-white w-full mt-4"
-                onClick={() => window.open("https://wa.me/1234567890", "_blank")}
+                onClick={() => window.open("https://wa.me/27814498919", "_blank")}
               >
                 <Phone className="mr-2 h-4 w-4" /> Contact via WhatsApp
               </Button>

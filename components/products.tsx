@@ -28,8 +28,8 @@ export default function Products({ wines }: ProductsProps) {
         </div>
 
         <Tabs defaultValue="All" className="w-full" onValueChange={setActiveTab}>
-          <div className="flex justify-center mb-8">
-            <TabsList className="bg-gray-100">
+          <div className="flex justify-center mb-8 px-4">
+            <TabsList className="bg-gray-100 flex-wrap justify-center h-auto">
               {wineTypes.map((type) => (
                 <TabsTrigger
                   key={type}

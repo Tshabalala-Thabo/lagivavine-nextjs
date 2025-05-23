@@ -77,7 +77,7 @@ export default function Home() {
       id: 15,
       name: "Custom",
       type: "Custom",
-      price: 200.0,
+      price: 350.0,
       image: "/image/wines/custom.png",
       description: "A unique blend crafted to your specific taste preferences.",
     },
